@@ -1,1 +1,3 @@
 lineas 1 del primer archivo
+lineas 2 del primer archivo
+lineas 3 del primer archivo
